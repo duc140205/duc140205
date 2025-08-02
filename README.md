@@ -1,4 +1,4 @@
-##                                                                                                                               Ayyooo 👋
+##                                                                                                        <p align="center"> Ayyooo 👋</p>
 
 Hello there! 👋 I'm a developer-in-training with a passion for clean code and captivating performances.
 
