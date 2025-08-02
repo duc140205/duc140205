@@ -9,7 +9,7 @@ Hello there! 👋 I'm a developer-in-training with a passion for clean code and 
 💜 MY BIAS & INSPIRATION: When I'm not coding, I'm tuned into the world of K-Pop, inspired by the incredible talent of Winter (aespa). She's a reminder that dedication and artistry create truly iconic results!
 
 <p align="center">
-  <img src="assets/3.jpg" alt="aespa Winter" width="400"/>
+  <img src="assets/3.jpg" alt="aespa Winter" width="1000"/>
 </p>
 
 
