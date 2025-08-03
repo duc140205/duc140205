@@ -12,4 +12,7 @@ Hello there! 👋 I'm a developer-in-training with a passion for clean code and 
   <img src="assets/5.jpg" alt="aespa Winter" width="1000"/>
 </p>
 
-
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duc140205&show_icons=true&theme=tokyonight)
+</div>
