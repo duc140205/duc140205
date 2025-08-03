@@ -16,3 +16,9 @@ Hello there! 👋 I'm a developer-in-training with a passion for clean code and 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duc140205&show_icons=true&theme=tokyonight)
 </div>
+
+
+### Connect with me
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/duc-hoang140205) [<img src = "https://img.shields.io/badge/facebook-darkblue.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/duc1402)
+
